@@ -1,0 +1,15 @@
+{
+  "name": "triangles",
+  "version": "1.0.0",
+  "description": "Making triangle drawings maybe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Alexander L. Hayes",
+  "license": "MIT",
+  "dependencies": {
+    "trianglify": "^4.1.1"
+  }
+}
